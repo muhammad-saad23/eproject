@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;   
+}
+
+/* navbar */
+.navbar-brand img{
+    filter: invert(100%);
+    font-size: 50px;
+}
+.navbar{
+    background-color: #a2593f;
+}
+
+.container-fluid{
+    margin-bottom: -7px;
+}
+
+.btn{
+    transition: 0.5s;
+
+}
+.dropdown-menu .dropdown-item:hover{
+    width: max-content;
+    color: white;
+    background-color: #ad6b53;
+}
+.nav-item a{
+    margin-left: 10px;
+    text-align: start;    
+}
+
+.nav-item a:hover{
+    text-decoration: underline  2px;
+    transform: scale(1.1);
+    transition: 0.3s ease-in-out;  
+}
+.dropdown-menu .dropdown-item:hover{
+    width: max-content;
+    color: white;
+    background-color: #ad6b53;
+}
+
+/* about */
+
+.clearfix{
+    border-radius: 10px;
+    /* background-color: rgb(238, 224, 224); */
+    box-shadow: 2px 1px 7px 2px black;
+   
+}
+
+
+
+.social-links a{  
+    color:black;
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

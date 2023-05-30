@@ -1,0 +1,83 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;   
+}
+
+body{
+background-color: #ebe1ce;
+}
+
+/* navbar */
+
+.navbar{
+    background-color: #a2593f;
+}
+
+.container-fluid{
+    margin-bottom: -7px;
+}
+
+.btn{
+    transition: 0.5s;
+
+}
+
+.btn:hover{
+    background-color: black;
+}
+
+.navbar-brand img{
+    filter: invert(100%);
+    font-size: 50px;
+}
+.dropdown-menu .dropdown-item:hover{
+    width: max-content;
+    color: white;
+    background-color: #ad6b53;
+}
+.nav-item a{
+    margin-left: 10px;
+    text-align: start;    
+}
+
+.nav-item a:hover{
+    text-decoration: underline 2px;
+    transform: scale(1.1);
+    transition: 0.3s ease-in-out;  
+}
+/* navbar end */
+
+/* feedback */
+
+
+
+.mt-5{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+    width: 400px;
+    height: max-content;
+    box-shadow: 0px 4px 24px 1px;
+}
+
+
+
+.form-control{
+    border: 2px solid black;
+}
+
+.btn{ 
+    box-sizing: border-box;
+    font-size: 20px; 
+}
+
+
+
+
+
+
+
+
+
